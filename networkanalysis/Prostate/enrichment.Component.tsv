@@ -1,0 +1,2 @@
+#term ID	term description	observed gene count	background gene count	strength	false discovery rate	matching proteins in your network (IDs)	matching proteins in your network (labels)
+GO:0009986	Cell surface	4	824	1.28	0.0261	9606.ENSP00000260010,9606.ENSP00000264246,9606.ENSP00000366267,9606.ENSP00000398698	TLR2,CD80,GPC5,TNF

@@ -1,0 +1,2 @@
+#term ID	term description	observed gene count	background gene count	strength	false discovery rate	matching proteins in your network (IDs)	matching proteins in your network (labels)
+KW-0732	Signal	8	3233	0.64	0.0388	9606.ENSP00000252809,9606.ENSP00000262120,9606.ENSP00000265342,9606.ENSP00000343636,9606.ENSP00000347942,9606.ENSP00000351905,9606.ENSP00000442304,9606.ENSP00000471894	GDF15,TWSG1,FSTL4,GFRAL,RET,TGFBR2,FAM132B,HAMP

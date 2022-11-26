@@ -1,0 +1,3 @@
+#category	term ID	term description	observed gene count	background gene count	strength	false discovery rate	matching proteins in your network (IDs)	matching proteins in your network (labels)
+KEGG	hsa04612	Antigen processing and presentation	2	63	2.32	0.0109	9606.ENSP00000324173,9606.ENSP00000339398	HSPA5,HLA-DQA1
+DISEASES	DOID:4677	Keratitis	2	10	3.12	0.0045	9606.ENSP00000339398,9606.ENSP00000358525	HLA-DQA1,NGF

@@ -1,0 +1,10 @@
+#term ID	term description	observed gene count	background gene count	strength	false discovery rate	matching proteins in your network (IDs)	matching proteins in your network (labels)
+HSA-5578999	Defective GCLC causes Hemolytic anemia due to gamma-glutamylcysteine synthetase deficiency (HAGGSD)	2	2	3.25	0.0037	9606.ENSP00000229416,9606.ENSP00000359258	GCLC,GCLM
+HSA-6806664	Metabolism of vitamin K	2	3	3.07	0.0037	9606.ENSP00000378426,9606.ENSP00000403077	VKORC1,VKORC1L1
+HSA-139915	Activation of PUMA and translocation to mitochondria	2	8	2.65	0.0093	9606.ENSP00000264731,9606.ENSP00000269305	TP63,TP53
+HSA-174403	Glutathione synthesis and recycling	2	12	2.47	0.0141	9606.ENSP00000229416,9606.ENSP00000359258	GCLC,GCLM
+HSA-6803205	TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain	2	13	2.44	0.0141	9606.ENSP00000264731,9606.ENSP00000269305	TP63,TP53
+HSA-6803207	TP53 Regulates Transcription of Caspase Activators and Caspases	2	12	2.47	0.0141	9606.ENSP00000264731,9606.ENSP00000269305	TP63,TP53
+HSA-6803211	TP53 Regulates Transcription of Death Receptors and Ligands	2	12	2.47	0.0141	9606.ENSP00000264731,9606.ENSP00000269305	TP63,TP53
+HSA-6804759	Regulation of TP53 Activity through Association with Co-factors	2	14	2.41	0.0141	9606.ENSP00000264731,9606.ENSP00000269305	TP63,TP53
+HSA-6803204	TP53 Regulates Transcription of Genes Involved in Cytochrome C Release	2	19	2.27	0.0145	9606.ENSP00000264731,9606.ENSP00000269305	TP63,TP53

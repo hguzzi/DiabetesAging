@@ -1,0 +1,2 @@
+#term ID	term description	observed gene count	background gene count	strength	false discovery rate	matching proteins in your network (IDs)	matching proteins in your network (labels)
+HSA-6783783	Interleukin-10 signaling	3	45	2.42	0.00030	9606.ENSP00000264246,9606.ENSP00000351671,9606.ENSP00000398698	CD80,CCL20,TNF

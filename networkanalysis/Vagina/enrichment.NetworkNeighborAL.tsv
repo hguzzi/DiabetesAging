@@ -1,0 +1,4 @@
+#term ID	term description	observed gene count	background gene count	strength	false discovery rate	matching proteins in your network (IDs)	matching proteins in your network (labels)
+CL:25523	Protein carboxylation, and defective abcc6 causes pxe	4	6	3.07	5.14e-08	9606.ENSP00000233838,9606.ENSP00000319788,9606.ENSP00000378426,9606.ENSP00000403077	GGCX,NQO1,VKORC1,VKORC1L1
+CL:5266	Li-Fraumeni syndrome, and Cyclin-G1	2	5	2.85	0.0055	9606.ENSP00000264731,9606.ENSP00000269305	TP63,TP53
+CL:13111	Glutathione biosynthesis	2	6	2.77	0.0061	9606.ENSP00000229416,9606.ENSP00000359258	GCLC,GCLM

@@ -1,0 +1,8 @@
+#term ID	term description	observed gene count	background gene count	strength	false discovery rate	matching proteins in your network (IDs)	matching proteins in your network (labels)
+PF00224	Pyruvate kinase, barrel domain	2	2	3.25	0.0059	9606.ENSP00000320171,9606.ENSP00000339933	PKM,PKLR
+PF00285	Citrate synthase, C-terminal domain	2	2	3.25	0.0059	9606.ENSP00000253792,9606.ENSP00000342056	ACLY,CS
+PF00821	Phosphoenolpyruvate carboxykinase C-terminal P-loop domain	2	2	3.25	0.0059	9606.ENSP00000216780,9606.ENSP00000319814	PCK2,PCK1
+PF02887	Pyruvate kinase, alpha/beta domain	2	2	3.25	0.0059	9606.ENSP00000320171,9606.ENSP00000339933	PKM,PKLR
+PF17297	Phosphoenolpyruvate carboxykinase N-terminal domain	2	2	3.25	0.0059	9606.ENSP00000216780,9606.ENSP00000319814	PCK2,PCK1
+PF00056	Lactate/malate dehydrogenase, nad binding domain	2	8	2.65	0.0074	9606.ENSP00000327070,9606.ENSP00000438144	MDH2,MDH1
+PF02866	Lactate/malate dehydrogenase, alpha/beta c-terminal domain	2	8	2.65	0.0074	9606.ENSP00000327070,9606.ENSP00000438144	MDH2,MDH1

@@ -1,0 +1,2 @@
+#term ID	term description	observed gene count	background gene count	strength	false discovery rate	matching proteins in your network (IDs)	matching proteins in your network (labels)
+CL:15711	VEGF ligand-receptor interactions	2	5	2.81	0.0328	9606.ENSP00000451040,9606.ENSP00000478570	PGF,VEGFA

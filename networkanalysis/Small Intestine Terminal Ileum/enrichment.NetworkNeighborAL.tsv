@@ -1,0 +1,3 @@
+#term ID	term description	observed gene count	background gene count	strength	false discovery rate	matching proteins in your network (IDs)	matching proteins in your network (labels)
+CL:26509	Mostly uncharacterized, incl. fructosamine kinase, and reduction of food intake in response to dietary excess	4	22	2.51	3.64e-06	9606.ENSP00000252809,9606.ENSP00000256951,9606.ENSP00000343636,9606.ENSP00000397178	GDF15,EMP1,GFRAL,ZNF300
+CL:26537	Mixed, incl. cyclin-j, and gramdc4, ph-gram domain	2	5	2.85	0.0068	9606.ENSP00000256951,9606.ENSP00000397178	EMP1,ZNF300

@@ -1,0 +1,3 @@
+#term ID	term description	observed gene count	background gene count	strength	false discovery rate	matching proteins in your network (IDs)	matching proteins in your network (labels)
+GO:0017109	Glutamate-cysteine ligase complex	2	2	3.25	0.0029	9606.ENSP00000229416,9606.ENSP00000359258	GCLC,GCLM
+GO:0005783	Endoplasmic reticulum	6	1438	0.87	0.0453	9606.ENSP00000171111,9606.ENSP00000216117,9606.ENSP00000264731,9606.ENSP00000269305,9606.ENSP00000378426,9606.ENSP00000403077	KEAP1,HMOX1,TP63,TP53,VKORC1,VKORC1L1

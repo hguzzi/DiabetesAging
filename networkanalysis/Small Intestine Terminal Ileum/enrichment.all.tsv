@@ -1,0 +1,6 @@
+#category	term ID	term description	observed gene count	background gene count	strength	false discovery rate	matching proteins in your network (IDs)	matching proteins in your network (labels)
+GO Process	GO:0035860	Glial cell-derived neurotrophic factor receptor signaling pathway	3	9	2.77	0.00037	9606.ENSP00000252809,9606.ENSP00000343636,9606.ENSP00000347942	GDF15,GFRAL,RET
+GO Process	GO:0002023	Reduction of food intake in response to dietary excess	2	5	2.85	0.0387	9606.ENSP00000252809,9606.ENSP00000343636	GDF15,GFRAL
+STRING clusters	CL:26509	Mostly uncharacterized, incl. fructosamine kinase, and reduction of food intake in response to dietary excess	4	22	2.51	3.64e-06	9606.ENSP00000252809,9606.ENSP00000256951,9606.ENSP00000343636,9606.ENSP00000397178	GDF15,EMP1,GFRAL,ZNF300
+STRING clusters	CL:26537	Mixed, incl. cyclin-j, and gramdc4, ph-gram domain	2	5	2.85	0.0068	9606.ENSP00000256951,9606.ENSP00000397178	EMP1,ZNF300
+UniProt Keywords	KW-0732	Signal	8	3233	0.64	0.0388	9606.ENSP00000252809,9606.ENSP00000262120,9606.ENSP00000265342,9606.ENSP00000343636,9606.ENSP00000347942,9606.ENSP00000351905,9606.ENSP00000442304,9606.ENSP00000471894	GDF15,TWSG1,FSTL4,GFRAL,RET,TGFBR2,FAM132B,HAMP
