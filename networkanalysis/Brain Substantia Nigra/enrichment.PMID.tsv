@@ -1,0 +1,4 @@
+#term ID	term description	observed gene count	background gene count	strength	false discovery rate	matching proteins in your network (IDs)	matching proteins in your network (labels)
+PMID:26170839	(2015) Central obesity, type 2 diabetes and insulin: exploring a pathway full of thorns.	5	53	2.01	0.0064	9606.ENSP00000344220,9606.ENSP00000358525,9606.ENSP00000362680,9606.ENSP00000365016,9606.ENSP00000475344	PDPK1,NGF,SRC,IRS2,APLNR
+PMID:28761062	(2017) T2DiACoD: A Gene Atlas of Type 2 Diabetes Mellitus Associated Complex Disorders.	6	156	1.62	0.0101	9606.ENSP00000254722,9606.ENSP00000262768,9606.ENSP00000358525,9606.ENSP00000362680,9606.ENSP00000365016,9606.ENSP00000365777	SERPINF1,TIMP2,NGF,SRC,IRS2,MTHFR
+PMID:14970194	(2004) Phosphorylation of paxillin by p38MAPK is involved in the neurite extension of PC-12 cells.	4	24	2.26	0.0136	9606.ENSP00000215832,9606.ENSP00000344220,9606.ENSP00000358525,9606.ENSP00000362680	MAPK1,PDPK1,NGF,SRC

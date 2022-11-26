@@ -1,0 +1,2 @@
+#term ID	term description	observed gene count	background gene count	strength	false discovery rate	matching proteins in your network (IDs)	matching proteins in your network (labels)
+WP236	Adipogenesis	3	130	1.88	0.0041	9606.ENSP00000245451,9606.ENSP00000300055,9606.ENSP00000322898	BMP4,PLIN1,EBF1

@@ -1,0 +1,4 @@
+#term ID	term description	observed gene count	background gene count	strength	false discovery rate	matching proteins in your network (IDs)	matching proteins in your network (labels)
+HSA-444257	RSK activation	3	7	2.56	0.00037	9606.ENSP00000215832,9606.ENSP00000262752,9606.ENSP00000344220	MAPK1,RPS6KA6,PDPK1
+HSA-9634635	Estrogen-stimulated signaling through PRKCZ	2	6	2.45	0.0266	9606.ENSP00000215832,9606.ENSP00000344220	MAPK1,PDPK1
+HSA-163680	AMPK inhibits chREBP transcriptional activation activity	2	8	2.33	0.0320	9606.ENSP00000324856,9606.ENSP00000389814	STK11,ADIPOQ

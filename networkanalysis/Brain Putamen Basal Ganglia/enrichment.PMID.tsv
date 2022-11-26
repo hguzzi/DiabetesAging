@@ -1,0 +1,3 @@
+#term ID	term description	observed gene count	background gene count	strength	false discovery rate	matching proteins in your network (IDs)	matching proteins in your network (labels)
+PMID:33370269	(2020) Increased prostaglandin-D2 in male STAT3-deficient hearts shifts cardiac progenitor cells from endothelial to white adipocyte differentiation.	4	40	2.51	0.0013	9606.ENSP00000245451,9606.ENSP00000300055,9606.ENSP00000322898,9606.ENSP00000352516	BMP4,PLIN1,EBF1,DNMT1
+PMID:30558832	(2019) The Role of Immature and Mature Adipocytes in Hair Cycling.	3	19	2.71	0.0497	9606.ENSP00000245451,9606.ENSP00000300055,9606.ENSP00000322898	BMP4,PLIN1,EBF1

@@ -1,0 +1,5 @@
+#term ID	term description	observed gene count	background gene count	strength	false discovery rate	matching proteins in your network (IDs)	matching proteins in your network (labels)
+PF08336	Prolyl 4-Hydroxylase alpha-subunit, N-terminal region	3	3	3.25	9.09e-06	9606.ENSP00000263556,9606.ENSP00000384999,9606.ENSP00000401749	P4HA1,P4HA2,P4HA3
+PF13640	2OG-Fe(II) oxygenase superfamily	3	11	2.69	8.25e-05	9606.ENSP00000263556,9606.ENSP00000384999,9606.ENSP00000401749	P4HA1,P4HA2,P4HA3
+PF01391	Collagen triple helix repeat (20 copies)	3	76	1.85	0.0117	9606.ENSP00000331902,9606.ENSP00000369889,9606.ENSP00000380901	COL4A5,COL2A1,COL8A2
+PF03171	2OG-Fe(II) oxygenase superfamily	2	7	2.71	0.0117	9606.ENSP00000263556,9606.ENSP00000384999	P4HA1,P4HA2

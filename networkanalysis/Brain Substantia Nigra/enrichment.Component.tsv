@@ -1,0 +1,2 @@
+#term ID	term description	observed gene count	background gene count	strength	false discovery rate	matching proteins in your network (IDs)	matching proteins in your network (labels)
+GO:0030424	Axon	6	646	1.0	0.0298	9606.ENSP00000215832,9606.ENSP00000254722,9606.ENSP00000262768,9606.ENSP00000298552,9606.ENSP00000346148,9606.ENSP00000358525	MAPK1,SERPINF1,TIMP2,TSC1,PRKAA1,NGF

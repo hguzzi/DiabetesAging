@@ -1,0 +1,7 @@
+#term ID	term description	observed gene count	background gene count	strength	false discovery rate	matching proteins in your network (IDs)	matching proteins in your network (labels)
+GO:0004656	Procollagen-proline 4-dioxygenase activity	3	4	3.13	1.49e-05	9606.ENSP00000263556,9606.ENSP00000384999,9606.ENSP00000401749	P4HA1,P4HA2,P4HA3
+GO:0031418	L-ascorbic acid binding	3	20	2.43	0.00015	9606.ENSP00000263556,9606.ENSP00000384999,9606.ENSP00000401749	P4HA1,P4HA2,P4HA3
+GO:0016702	Oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen	3	26	2.31	0.00026	9606.ENSP00000263556,9606.ENSP00000384999,9606.ENSP00000401749	P4HA1,P4HA2,P4HA3
+GO:0005201	Extracellular matrix structural constituent	3	119	1.65	0.0111	9606.ENSP00000331902,9606.ENSP00000369889,9606.ENSP00000380901	COL4A5,COL2A1,COL8A2
+GO:0005506	Iron ion binding	3	147	1.56	0.0173	9606.ENSP00000263556,9606.ENSP00000384999,9606.ENSP00000401749	P4HA1,P4HA2,P4HA3
+GO:0030020	Extracellular matrix structural constituent conferring tensile strength	2	28	2.1	0.0267	9606.ENSP00000331902,9606.ENSP00000369889	COL4A5,COL2A1

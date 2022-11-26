@@ -1,0 +1,2 @@
+#term ID	term description	observed gene count	background gene count	strength	false discovery rate	matching proteins in your network (IDs)	matching proteins in your network (labels)
+HP:0025318	Ovarian carcinoma	3	11	2.37	0.0051	9606.ENSP00000324856,9606.ENSP00000361021,9606.ENSP00000365777	STK11,PTEN,MTHFR

@@ -1,0 +1,4 @@
+#category	term ID	term description	observed gene count	background gene count	strength	false discovery rate	matching proteins in your network (IDs)	matching proteins in your network (labels)
+GO Component	GO:0031253	Cell projection membrane	4	338	1.52	0.0052	9606.ENSP00000257430,9606.ENSP00000336790,9606.ENSP00000345708,9606.ENSP00000377372	APC,ATF4,KCNJ11,GAP43
+GO Component	GO:0031256	Leading edge membrane	3	174	1.68	0.0210	9606.ENSP00000257430,9606.ENSP00000336790,9606.ENSP00000345708	APC,ATF4,KCNJ11
+Monarch HPO	EFO:0000589	Metabolic disease	3	96	1.94	0.0429	9606.ENSP00000302665,9606.ENSP00000345708,9606.ENSP00000377372	IGF1,KCNJ11,GAP43

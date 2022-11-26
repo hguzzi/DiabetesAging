@@ -1,0 +1,3 @@
+#term ID	term description	observed gene count	background gene count	strength	false discovery rate	matching proteins in your network (IDs)	matching proteins in your network (labels)
+KW-0067	ATP-binding	7	1368	0.75	0.0354	9606.ENSP00000215832,9606.ENSP00000233146,9606.ENSP00000344220,9606.ENSP00000346148,9606.ENSP00000362680,9606.ENSP00000440045,9606.ENSP00000480150	MAPK1,MSH2,PDPK1,PRKAA1,SRC,ATP2A2,HYOU1
+KW-0483	Metalloprotease inhibitor	2	10	2.34	0.0354	9606.ENSP00000262768,9606.ENSP00000358525	TIMP2,NGF

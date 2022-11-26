@@ -1,0 +1,3 @@
+#term ID	term description	observed gene count	background gene count	strength	false discovery rate	matching proteins in your network (IDs)	matching proteins in your network (labels)
+HP:0003496	Increased circulating IgM level	3	18	2.12	0.0238	9606.ENSP00000359663,9606.ENSP00000361359,9606.ENSP00000401399	CD40LG,CD40,MYD88
+HP:0002847	Impaired memory B cell generation	2	2	2.89	0.0464	9606.ENSP00000359663,9606.ENSP00000361359	CD40LG,CD40

@@ -1,0 +1,2 @@
+#term ID	term description	observed gene count	background gene count	strength	false discovery rate	matching proteins in your network (IDs)	matching proteins in your network (labels)
+PF00341	PDGF/VEGF domain	4	9	1.71	0.0123	9606.ENSP00000330382,9606.ENSP00000346508,9606.ENSP00000376865,9606.ENSP00000478570	PDGFB,PDGFA,PDGFD,VEGFA

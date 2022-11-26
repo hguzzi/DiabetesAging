@@ -1,0 +1,2 @@
+#term ID	term description	observed gene count	background gene count	strength	false discovery rate	matching proteins in your network (IDs)	matching proteins in your network (labels)
+HSA-198933	Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell	4	129	1.39	0.0499	9606.ENSP00000359663,9606.ENSP00000361359,9606.ENSP00000379873,9606.ENSP00000383115	CD40LG,CD40,HLA-A,COLEC12
