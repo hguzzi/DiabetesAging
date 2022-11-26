@@ -1,0 +1,2 @@
+#category	term ID	term description	observed gene count	background gene count	strength	false discovery rate	matching proteins in your network (IDs)	matching proteins in your network (labels)
+GO Process	GO:1901700	Response to oxygen-containing compound	7	1567	1.04	0.0021	9606.ENSP00000243349,9606.ENSP00000280357,9606.ENSP00000311165,9606.ENSP00000354901,9606.ENSP00000356047,9606.ENSP00000363822,9606.ENSP00000376865	ACVR1C,IL18,AQP1,CXCL9,PFKFB2,AR,PDGFD

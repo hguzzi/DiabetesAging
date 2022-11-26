@@ -1,0 +1,2 @@
+#term ID	term description	observed gene count	background gene count	strength	false discovery rate	matching proteins in your network (IDs)	matching proteins in your network (labels)
+BTO:0000508	Thorax muscle	2	4	2.84	0.0135	9606.ENSP00000248553,9606.ENSP00000356515	HSPB1,UTRN

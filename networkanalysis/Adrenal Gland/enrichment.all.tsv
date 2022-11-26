@@ -1,0 +1,2 @@
+#category	term ID	term description	observed gene count	background gene count	strength	false discovery rate	matching proteins in your network (IDs)	matching proteins in your network (labels)
+GO Process	GO:0042127	Regulation of cell population proliferation	8	1642	0.87	0.0281	9606.ENSP00000233813,9606.ENSP00000260010,9606.ENSP00000363377,9606.ENSP00000365435,9606.ENSP00000383364,9606.ENSP00000384262,9606.ENSP00000384849,9606.ENSP00000418823	IGFBP5,TLR2,FOXO4,TNFRSF1B,PLA2G2A,HPSE,CDKN1A,FTO
